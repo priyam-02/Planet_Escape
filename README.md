@@ -32,15 +32,16 @@ Players control the astronaut who can jump and use thrusters to move faster and 
 ## Instructions
 
 1. **Move:** LEFT, RIGHT
-   **Jump:** SPACEBAR 
 
-2. **Health:** Monitor the constantly depleting oxygen meter at the top of the screen to manage your health effectively, certain plants will replenish your oxygen but also shoot thorns so be aware of them.
+2. **Jump:** SPACEBAR 
 
-3. **Enemy:** Navigate with caution, avoiding dangerous plants, flying enemies, and treacherous pitfalls, as they pose an immediate threat to your astronaut's survival
+3. **Health:** Monitor the constantly depleting oxygen meter at the top of the screen to manage your health effectively, certain plants will replenish your oxygen but also shoot thorns so be aware of them.
 
-4. **Goal:** Return to the ship before your oxygen depletes to keep your astronaut alive
+4. **Enemy:** Navigate with caution, avoiding dangerous plants, flying enemies, and treacherous pitfalls, as they pose an immediate threat to your astronaut's survival
 
-5. **Score:** The score decreases as you take more time to complete the level, the maximum score is 2000 if you finish in less than approximately 3 minutes and 30 seconds, complete the level quickly for a higher score
+5. **Goal:** Return to the ship before your oxygen depletes to keep your astronaut alive
+
+6. **Score:** The score decreases as you take more time to complete the level, the maximum score is 2000 if you finish in less than approximately 3 minutes and 30 seconds, complete the level quickly for a higher score
 
 
 ## Demo Video
