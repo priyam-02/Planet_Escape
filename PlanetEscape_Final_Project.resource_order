@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"fnt_highScoresHead","order":1,"path":"fonts/fnt_highScoresHead/fnt_highScoresHead.yy",},
+    {"name":"fnt_highScore","order":2,"path":"fonts/fnt_highScore/fnt_highScore.yy",},
+    {"name":"fnt_g","order":3,"path":"fonts/fnt_g/fnt_g.yy",},
+  ],
+}
