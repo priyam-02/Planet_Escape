@@ -1,43 +1,46 @@
-# Temple of Vormir
-Temple of Vormir is a 2D multiplayer platformer game that draws heavy inspiration from adventure franchises like Indiana Jones and the Marvel Cinematic Universe. 
-Set in an enigmatic temple, the game blends exploration, puzzles, and action-packed encounters with hostile creatures. 
-Two players are challenged to coordinate their moves, overcome obstacles, and unravel the mysteries of the temple to obtain a legendary golden statue.
+# Planet Escape
+
+Planet Escape" is a 2D side-scroller survival game developed as part of an educational project at UNC Charlotte. In this game, players take on the role of an astronaut stranded on a hostile, unknown planet called Mordor. The objective is to navigate a series of challenges to safely return to the spaceship, using the astronaut's suit thrusters and survival skills to avoid deadly obstacles like dangerous plants and harsh terrain.
 
 
 ## Game Details
 
-1. **Genre:** 2D Platformer
+1. **Genre:** 2D Platformer side-scroller
 2. **Platform:** PC
-3. **Number of Players:** 2 (Multiplayer)
+3. **Number of Players:** 1 (Single-player)
 
 
-## Features
+## Mechanics
 
-1. **Dynamic Gameplay:** Embrace the thrill of exploration and action reminiscent of classic adventure films. Navigate through a temple filled with hidden dangers and treasures.
-2. **Betrayal Mechanic:** In a dramatic twist, only one player can escape with the golden statue, _turning cooperative play into a competitive showdown_.
-3. **Cooperative yet Competitive Play:** Employing dual keybindings, one player uses the WASD keys while the other uses the up-down arrow keys. This setup not only enhances coordination but also adds a layer of challenge as players must work together until the ultimate betrayal for the golden statue.
-4. **Challenging Environments:** The temple's architecture is reminiscent of a dungeon, consisting of pre-built rooms that players must explore. These environments are designed to challenge players with puzzles and threats, spreading across three meticulously crafted levels.
-5. **Core Mechanics:** Movement and jumping are central to navigating the temple's complex terrain. Mastery of these mechanics is essential to surviving the challenges that lie ahead.
-6. **Artistic Style:** The game features a geometric art style with sprites for characters, NPCs, and environments, enhancing visual appeal and gameplay immersion.
+Players control the astronaut who can jump and use thrusters to move faster and higher. Gravity affects the astronaut, bringing them back down after jumping or thrusting upward.
+
+
+## Objectives
+
+1. Survive the harsh conditions of the planet.
+2. Navigate through obstacles to reach the spaceship.
+3. Manage the astronaut's limited oxygen supply.
 
 
 ## Cheatcodes
 
-1. Press **_escape (Esc)_** to go to the start page
-2. Press **_R_** to restart game
-3. Press **_Q_** to quit
-4. Press **_N_** to go to next level
-5. Press **_I_** for Immunity (health does not get reduced)
-6. Press **_G_** to for getting the Golden Statue in Level 3
+1. Press **Shift** : Pauses the automatic oxygen depletion, as well as makes you immune to thorns being fired at you.
+2. Press **I** : Makes you immune and invincible to the enemies, i.e. you do not get killed by them.
+3. Press **H** : To view the High Scores.
 
 
 ## Instructions
 
-1. Player 1 Movement: W (Up), A (Left), S (Down), D (Right)
-   Player 1 Attack (In Level 3): Left Shift (Lshift)
+1. **Move:** LEFT, RIGHT
+   **Jump:** SPACEBAR 
 
-2. Player 2 Movement: ⬆️ Arrow(Up), ⬅️ Arrow(Left), ⬇️ Arrow(Down), ➡️ Arrow(Right) 
-   Player 2 Attack (In Level 3): Right Shift (Rshift)
+2. **Health:** Monitor the constantly depleting oxygen meter at the top of the screen to manage your health effectively, certain plants will replenish your oxygen but also shoot thorns so be aware of them.
+
+3. **Enemy:** Navigate with caution, avoiding dangerous plants, flying enemies, and treacherous pitfalls, as they pose an immediate threat to your astronaut's survival
+
+4. **Goal:** Return to the ship before your oxygen depletes to keep your astronaut alive
+
+5. **Score:** The score decreases as you take more time to complete the level, the maximum score is 2000 if you finish in less than approximately 3 minutes and 30 seconds, complete the level quickly for a higher score
 
 
 ## Demo Video
