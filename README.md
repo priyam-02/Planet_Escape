@@ -15,7 +15,7 @@ Two players are challenged to coordinate their moves, overcome obstacles, and un
 
 1. **Dynamic Gameplay:** Embrace the thrill of exploration and action reminiscent of classic adventure films. Navigate through a temple filled with hidden dangers and treasures.
 2. **Betrayal Mechanic:** In a dramatic twist, only one player can escape with the golden statue, _turning cooperative play into a competitive showdown_.
-3. **Cooperative yet Competitive Play:** Employing dual keybindings, one player uses the WASD keys while the other uses the up-down arrow keys or a game controller. This setup not only enhances coordination but also adds a layer of challenge as players must work together until the ultimate betrayal for the golden statue.
+3. **Cooperative yet Competitive Play:** Employing dual keybindings, one player uses the WASD keys while the other uses the up-down arrow keys. This setup not only enhances coordination but also adds a layer of challenge as players must work together until the ultimate betrayal for the golden statue.
 4. **Challenging Environments:** The temple's architecture is reminiscent of a dungeon, consisting of pre-built rooms that players must explore. These environments are designed to challenge players with puzzles and threats, spreading across three meticulously crafted levels.
 5. **Core Mechanics:** Movement and jumping are central to navigating the temple's complex terrain. Mastery of these mechanics is essential to surviving the challenges that lie ahead.
 6. **Artistic Style:** The game features a geometric art style with sprites for characters, NPCs, and environments, enhancing visual appeal and gameplay immersion.
